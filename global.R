@@ -8,7 +8,7 @@ library(shinyWidgets)
 library(leaflet)
 
 # change it to FALSE if first time
-load_data = FALSE
+load_data = TRUE
 
 if (load_data) {
   load("data.RData")
