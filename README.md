@@ -1,1 +1,2 @@
-# Find-Waste-Containers-in-Amsterdam
+# Find Waste Containers in Amsterdam
+
